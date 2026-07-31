@@ -20,3 +20,7 @@
 # 22/EG/EE/2040
 # etinibilly-arch
 
+# CONTRIBUTOR
+# IKPE, MFON MFON
+# 22/EG/EE/2110
+# funnky-skywalker
