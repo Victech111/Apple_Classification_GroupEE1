@@ -34,3 +34,8 @@
 # JOHN SAMUEL WILSON 
 # 22/EG/EE/2060
 # Cyphersage99
+
+# COLLABORATOR
+# Eniekeme Uwem Valentine 
+# 22/EG/EE/1970
+# eniekemevalentine
