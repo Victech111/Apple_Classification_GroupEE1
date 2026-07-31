@@ -31,3 +31,8 @@
 # Eniekeme Uwem Valentine 
 # 22/EG/EE/1970
 # eniekemevalentine
+
+# COLLABORATOR
+# ONOYOM UBONG INI
+# 22/EG/EE/1960
+# ubongonoyom
