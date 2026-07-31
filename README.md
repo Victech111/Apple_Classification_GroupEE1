@@ -1,7 +1,7 @@
 # Apple_Classification_GroupEE1
 
 # CONTRIBUTOR
-# VICTOR JOHN
+# JOHN VICTOR ERNEST
 # 22/EG/EE/1980
 # Victech111
 
