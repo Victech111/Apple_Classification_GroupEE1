@@ -1,17 +1,9 @@
 # Apple_Classification_GroupEE1
-
-# CONTRIBUTOR
-# JOHN VICTOR ERNEST
-# 22/EG/EE/1980
-# Victech111
-
-# COLLABORATOR 
-# EMEDIONG B. SAMUEL 
-# 22/EG/EE/2050
-# MaybeBonita
-
-# COLLABORATOR
-# ETUKUDO, ABASIBIANGAKE CORNELIUS 
+| Name              | Registration Number | GitHub Username |
+|-------------------|---------------------|------------------|
+ JOHN VICTOR ERNEST     22/EG/EE/1980        Victech111
+ EMEDIONG B. SAMUEL     22/EG/EE/2050        MaybeBonita
+ ETUKUDO ABASIBIANGAKE CORNELIUS 
 # 22/EG/EE/1990
 # Abasibiangake24
 
