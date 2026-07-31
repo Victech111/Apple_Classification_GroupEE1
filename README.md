@@ -29,3 +29,8 @@
 # OKON, UWAKMFON MFON
 # 22/EG/EE/2030
 # uwakmfonokon711-svg
+
+# COLLABORATOR
+# JOHN SAMUEL WILSON 
+# 22/EG/EE/2060
+# Cyphersage99
