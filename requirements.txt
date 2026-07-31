@@ -1,0 +1,4 @@
+﻿sreamlit
+tensorflow
+pillow
+numpy
