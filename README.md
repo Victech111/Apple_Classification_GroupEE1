@@ -4,16 +4,19 @@
 # VICTOR JOHN
 # 22/EG/EE/1980
 # Victech111
+
 # COLLABORATOR 
 # EMEDIONG B. SAMUEL 
 # 22/EG/EE/2050
 # MaybeBonita
+
 # COLLABORATOR
 # ETUKUDO, ABASIBIANGAKE CORNELIUS 
 # 22/EG/EE/1990
-# Abasibiangake24 
+# Abasibiangake24
+
 # COLLABORATOR
 # BILLY, ETI-INI IME 
 # 22/EG/EE/2040
 # etinibilly-arch
-#
+
